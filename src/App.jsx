@@ -1,4 +1,5 @@
 import './App.css'
+import.meta.env.VITE_HALSNING
 
 function App() {
   return (
