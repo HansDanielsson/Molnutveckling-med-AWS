@@ -7,7 +7,7 @@ function App() {
       <p>
         Den här appen byggs automatiskt när jag pushar till GitHub.
       </p>
-      <p>Molnutveckling med AWS - vecka 39</p>
+      <p>Molnutveckling med AWS - vecka 39 av TeamDraken</p>
     </main>
   )
 }
